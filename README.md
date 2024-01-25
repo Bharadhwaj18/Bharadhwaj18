@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Bharadhwaj18
-- 👀 I’m interested in Front End development and its branches 
-- 🌱 I’m currently learning REACT 
-- 💞️ I’m looking to collaborate on Front end Projeccts
+- 🌱 I’m a MERN Stack Developer
 - 📫 How to reach me : shreyasbharadhwaj18@gmail.com
 
 <!---
